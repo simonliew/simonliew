@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simonliew
+- 👋 Hi, I’m @Simon Liew
 - 👀 I’m interested in adventuring
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on AI
